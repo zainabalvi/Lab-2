@@ -1,3 +1,4 @@
 # Lab-2
 Console.WriteLine(" My name is Zainab "):
 Console.WriteLine(" My roll number is 24-ST-64");
+Console.WriteLine("\n1st Semestersubjects: Computer Programming,IT,Applied Physics,EHS,Calculus");
