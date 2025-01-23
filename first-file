@@ -1,3 +1,4 @@
 # Lab-2
 Console.WriteLine(" My name is Zainab "):
 Console.WriteLine(" My roll number is 24-ST-64");
+Console.WriteLine("\nFsc Subject:Maths, English, Chemistry, Physics, Urdu, Pak Studies");
