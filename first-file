@@ -1,3 +1,8 @@
 # Lab-2
 Console.WriteLine(" My name is Zainab "):
 Console.WriteLine(" My roll number is 24-ST-64");
+Console.WriteLine("\n2nd Semster Subject: 1-OOP ");
+Console.WriteLine("2nd Semster Subject: 2- Function English ");
+Console.WriteLine("2nd Semster Subject: 3- Prob and Statictics");
+Console.WriteLine("2nd Semster Subject: 4- Discrte Structure ");
+Console.WriteLine("2nd Semster Subject: 5- SDC ");
